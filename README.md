@@ -6,13 +6,11 @@
 
 ## Información sobre el curso
 
-👥 **Instructores:**
-
-- Ana Laura Hernandez-Ledesma - Estudiante de doctorado de Biomedicas, INB. 
-- Evelia Lorena Coss Navarrete - Postdoctoral LIIGH, VieRnes de Bioinformática en el LIIGH-UNAM, RSG México y Rladies Morelia. Instructora certificada de -Carpentries.  Web page
-- Luis Domingo Martinez - Postdoctoral LIIGH-UNAM, Profesor de Asignatura ENES-UNAM.
-- Ale Schafer - Estudiante de doctorado
-
+- 👥 **Instructores:**
+    + Ana Laura Hernandez-Ledesma - Estudiante de doctorado de Biomedicas, INB.
+    + Evelia Lorena Coss Navarrete - Postdoctoral LIIGH, VieRnes de Bioinformática en el LIIGH-UNAM, RSG México y Rladies Morelia. Instructora certificada de -Carpentries.  Web page
+    + Luis Domingo Martinez - Postdoctoral LIIGH-UNAM, Profesor de Asignatura ENES-UNAM.
+    + Ale Schafer - Estudiante de doctorado
 - Duración: x horas (2 horas diarias)
 - Idioma: Español
 - Fechas: Cada miércoles, del 21 de mayo al 25 de junio de 2025
